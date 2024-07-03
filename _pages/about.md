@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website"
+title: "Tinghan Zhang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
