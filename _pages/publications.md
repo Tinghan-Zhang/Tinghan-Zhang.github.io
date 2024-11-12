@@ -17,7 +17,5 @@ Working papers
   * Traditional choice structures based on Weitzman's (1979) Optimal Search Rules offer limited support for empirical research on sequential search models (SSM). This paper introduces a series of conditions that fully characterize the optimal solution to the SSM in a static choice structure, resulting in a Partial Ranking choice structure. Using the choice structure, I demonstrate that the joint probability of consumer decisions in the SSM can be easily decomposed into independent conditional probabilities, facilitating the formalization of identification arguments and simplifying estimation implementation. Therefore, beyond the baseline model, the proposed structure accommodates incomplete search path data, additional information beyond observed search sequences, and structural change in consumers' search path. 
   * Selected presentations: SEG Tilburg
 
-* ** Endogenous Search**. 
+* **Endogenous Search**. 
   * Consumers typically search to resolve product uncertainty under imperfect information before purchase. Beyond product attributes and search costs, consumers' search decisions are generally assumed to be driven by unobserved pre-search taste, often considered independent of other product characteristics. However, the assumption of independence in pre-search taste remains unverified. Consumers may perceive a correlation between price and unknown quality information, introducing endogeneity between search decisions and product prices beyond their inherent preferences. This relationship can bias the estimation of consumers' search behavior. Building on the decomposition of joint probabilities in the search process from my previous paper, I developed an estimation method with the potential to address this issue. 
-
-* ** 
