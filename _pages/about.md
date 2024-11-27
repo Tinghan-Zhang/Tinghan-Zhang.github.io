@@ -13,13 +13,13 @@ I am an applied economist specializing in Microeconometrics and Empirical Indust
 
 I will be available in the 2024/2025 job market. 
 
-Research Field
+Research Fields
 ======
 Applied Microeconometrics, Empirical Industrial Organization, Quantitative Marketing, Digital Economics. 
 
-Research Interest
+Research Interests
 ======
-Online Market, Consumer Search and Learning. 
+Online Markets, Consumer Search and Learning. 
 
 Office
 ======
