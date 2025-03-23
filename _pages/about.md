@@ -10,11 +10,11 @@ Welcome!
 
 I am a 5th-year PhD candidate in the [Department of Econometrics and Operations Research](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/eor) at Tilburg University, School of Economics and Management. My supervisors are [Prof. dr. Tobias Klein](https://www.tobiasklein.ws/) and [Dr. Christoph Walsh](https://walshc.github.io/)
 
-My research employs structural econometric models to quantitatively analyze online consumer behavior, focusing on sequential decision-making in choice contexts.
+My research applies structural econometric models to quantitatively examine online consumer behavior, with a particular focus on sequential decision-making in choice environments.
 
-Empirically, my work originates from consumer search models and has expanded to incorporate learning, regret, repetition, and inattention in sequential decision-making. I leverage consumer clickstream data to estimate these models and generate marketing insights on how mechanisms such as recommendations and advertisements influence market competition and consumer welfare through decision-making dynamics.
+Empirically, my work builds on consumer search models and extends them to incorporate key behavioral elements such as learning, regret, forgetfulness, and inattention. I utilize consumer clickstream data to estimate these models and derive marketing insights into how mechanisms like one-click purchase, recommendations and advertisements shape market competition and consumer welfare through their effects on decision-making dynamics.
 
-On the econometric front, I refine the empirical foundations of sequential search models and develop low-computational-cost estimators. Building on these advancements, I extend the methods to a broader class of sequential decision-making models, including those used in my empirical research.
+On the econometric side, I strengthen the empirical foundations of sequential search models and develop estimators with low computational cost. These methodological improvements enable me to extend the analysis to a broader class of sequential decision-making models, including those applied in my empirical studies.
 
 I will be available in the 2024/2025 job market. 
 
