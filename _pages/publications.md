@@ -14,7 +14,7 @@ author_profile: true
   <button onclick="toggleAbstract(this)">Show Abstract</button>
   <div class="abstract" style="display:none; margin-top:10px;">
     <p>One of the most invoked assumptions in economics is that consumers know their preferences when making choices. Although theories and experiments in psychology and behavioral economics suggest that this may be unrealistic, there is relatively little evidence from the field on this question. In this paper, we use detailed clickstream data from a large Central Asian online platform to study the extent to which consumers learn about their preferences while searching for a smartphone. To quantify the speed at which this takes place and account for other factors, most notably that consumers obtain additional product information when they inspect product pages, we estimate a rich search model in which consumers learn about their willingness to pay each time they visit the checkout page. Consumers initially underestimate their price sensitivity and update it along the way. Taking this into account shows that consumers are more price sensitive than a standard search model would predict, and an intervention that prompts consumers to end their search early can lead to potential welfare loss.</p>
-    <p><strong>Selected presentations:</strong> SEG Tilburg, Tilburg-Rotterdam Workshop on Digital Markets 2024, EMAC Doctoral Colloquium 2025 (Scheduled), ISMS 2025 (Scheduled), 14th Consumer Search and Switching Cost Workshop.</p>
+    <p><strong>Selected presentations:</strong> SEG Tilburg; Tilburg-Rotterdam WDM 2024; EMAC Doctoral Colloquium 2025 (Madrid, scheduled); ISMS 2025 (Washington DC, scheduled); 14th Consumer Search and Switching Cost Workshop (Hong Kong, scheduled).</p>
   </div>
 </div>
 
