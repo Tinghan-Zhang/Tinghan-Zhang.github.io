@@ -38,6 +38,14 @@ author_profile: true
   </div>
 </div>
 
+<div class="paper">
+  <h3><strong>Out of Sight, Out of Cart: Modeling Forgetting in Consumer Search</strong></h3>
+  <button onclick="toggleAbstract(this)">Show Abstract</button>
+  <div class="abstract" style="display:none; margin-top:10px;">
+    <p>Online consumers often obtain a large volume of information rapidly through search prior to making a purchase. However, this information may not be fully retained, leading consumers to forget previously searched product details and potentially make suboptimal purchase decisions. This paper develops a simple structural model that characterizes the sequential search and purchase behavior of a myopic consumer who experiences memory decay with respect to previously acquired information. Using a dataset of consumer clickstreams, the model is empirically estimated to recover the rate of memory decay and the extent to which repeated visits reinforce memory. Based on these estimates, the paper quantifies the resulting welfare loss faced by consumers.</p>
+  </div>
+</div>
+
 <script>
 function toggleAbstract(button) {
   var abstractDiv = button.nextElementSibling;
