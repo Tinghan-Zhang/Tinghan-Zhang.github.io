@@ -17,7 +17,7 @@ Quantitative Marketing, Empirical Industrial Organization, Applied Microeconomet
 
 Research Interests
 ======
- - **Empirical Industrial Organization** with its application in Quantitative Marketing, particularly focusing on consumer sequential decision-making in choice environments. E.g., search, learning, regret, forgetfulness, inattention. I utilize clickstream data to estimate structural models and derive marketing insights for mechanisms like one-click purchase, recommendations and advertisements.
+ - **Empirical Industrial Organization** with its application in **Quantitative Marketing**, particularly focusing on consumer sequential decision-making in choice environments， e.g., search, learning, regret, forgetfulness, inattention. I utilize clickstream data to estimate structural models and derive marketing insights for mechanisms like one-click purchase, recommendations, reminders and advertisements.
 
  - **(Structural) Econometrics**, focusing on the sequential search model and its broad class of variations. 
 
