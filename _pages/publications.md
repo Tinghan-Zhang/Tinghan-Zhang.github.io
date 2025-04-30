@@ -14,7 +14,7 @@ author_profile: true
   <button onclick="toggleAbstract(this)">Show Abstract</button>
   <div class="abstract" style="display:none; margin-top:10px;">
     <p>One of the most invoked assumptions in economics is that consumers know their preferences when making choices. Although theories and experiments in psychology and behavioral economics suggest that this may be unrealistic, there is relatively little evidence from the field on this question. In this paper, we use detailed clickstream data from a large Central Asian online platform to study the extent to which consumers learn about their preferences while searching for a smartphone. To quantify the speed at which this takes place and account for other factors, most notably that consumers obtain additional product information when they inspect product pages, we estimate a rich search model in which consumers learn about their willingness to pay each time they visit the checkout page. Consumers initially underestimate their price sensitivity and update it along the way. Taking this into account shows that consumers are more price sensitive than a standard search model would predict, and an intervention that prompts consumers to end their search early can lead to potential welfare loss.</p>
-    <p><strong>Selected presentations:</strong> SEG Tilburg, 2021, 2022, 2023; Tilburg-Rotterdam WDM 2024; EMAC Doctoral Colloquium 2025 (Madrid, scheduled); ISMS 2025 (Washington DC, scheduled); 14th Consumer Search and Switching Cost Workshop (Hong Kong, scheduled).</p>
+    <p><strong>Selected presentations:</strong> SEG Tilburg; Tilburg-Rotterdam WDM 2024; EMAC Doctoral Colloquium 2025 (Madrid, scheduled); ISMS 2025 (Washington DC, scheduled); 14th Consumer Search and Switching Cost Workshop (Hong Kong, scheduled).</p>
   </div>
 </div>
 
@@ -24,7 +24,7 @@ author_profile: true
   <button onclick="toggleAbstract(this)">Show Abstract</button>
   <div class="abstract" style="display:none; margin-top:10px;">
     <p>Consumer search data has become increasingly abundant with the growth of online shopping, and sequential search models provide a structured framework for empirical analysis. However, existing studies typically characterize the model’s optimal solution using step-by-step Optimal Search Rules, which rely on unobserved search outcomes and result in high-dimensional joint probabilities that are difficult to solve or simulate. This paper introduces a novel representation, showing that the optimal solution of a broad class of sequential search models can be equivalently described by a partial ranking over all available actions in the search process, thereby enabling empirical analysis to proceed through the model’s ranking equivalent. Leveraging this thought, we derive a decomposable joint probability expression, formalize the identification arguments, and propose an improved GHK-style simulated likelihood estimator that is easy to implement and achieves superior estimation performance. We further extend the representation and estimator to settings with incomplete search data and to models incorporating additional actions, such as product discovery. Our results provide researchers with a new perspective on sequential search models and offer practitioners a practical and computationally efficient estimation tool.</p>
-    <p><strong>Selected presentations:</strong> SEG Tilburg</p>
+    <p><strong>Selected presentations:</strong> SEG Tilburg； EEA 2025 (Bordeaux, scheduled)</p>
   </div>
 </div>
 
