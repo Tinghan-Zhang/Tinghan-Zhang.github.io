@@ -9,22 +9,22 @@ author_profile: true
 ## Working papers
 
 <div class="paper">
-  <h3><strong>Do I Really Want to Buy This? Preference Discovery and Consumer Search</strong></h3>
-  <p>Joint with Tobias Klein and Christoph Walsh. <a href="https://www.dropbox.com/scl/fi/otgsnm4pnp4o7fch87wbr/JMP_TZhang.pdf?rlkey=fu5pjctjg25bvrdnclejxhuj1&st=uhbzujur&dl=0&raw=1" target="_blank">[PDF]</a></p>
-  <button onclick="toggleAbstract(this)">Show Abstract</button>
-  <div class="abstract" style="display:none; margin-top:10px;">
-    <p>One of the most invoked assumptions in economics is that consumers know their preferences when making choices. Although theories and experiments in psychology and behavioral economics suggest that this may be unrealistic, there is relatively little evidence from the field on this question. In this paper, we use detailed clickstream data from a large Central Asian online platform to study the extent to which consumers learn about their preferences while searching for a smartphone. To quantify the speed at which this takes place and account for other factors, most notably that consumers obtain additional product information when they inspect product pages, we estimate a rich search model in which consumers learn about their willingness to pay each time they visit the checkout page. Consumers initially underestimate their price sensitivity and update it along the way. Taking this into account shows that consumers are more price sensitive than a standard search model would predict, and an intervention that prompts consumers to end their search early can lead to potential welfare loss.</p>
-    <p><strong>Selected presentations:</strong> SEG Tilburg; Tilburg-Rotterdam WDM 2024; EMAC Doctoral Colloquium 2025 (Madrid, scheduled); ISMS 2025 (Washington DC, scheduled); 14th Consumer Search and Switching Cost Workshop (Hong Kong, scheduled).</p>
-  </div>
-</div>
-
-<div class="paper">
-  <h3><strong>Estimating Sequential Search Models Based on a Partial Ranking Representation</strong></h3>
+  <h3><strong>Estimating Sequential Search Models Based on a Partial Ranking Representation </strong> (Job Market Paper) </h3>
   <p><a href="https://arxiv.org/abs/2501.07514" target="_blank">[arXiv]</a> <a href="https://www.dropbox.com/scl/fi/1fusn7428ic8kp92cle4b/Partial_Ranking.pdf?rlkey=k9yj6yoztjrdgql0i3q02vo1r&st=al70cchc&dl=0&raw=1" target="_blank">[Most Recent Version]</a></p>
   <button onclick="toggleAbstract(this)">Show Abstract</button>
   <div class="abstract" style="display:none; margin-top:10px;">
     <p>The rapid growth of online shopping has made consumer search data increasingly available, offering new opportunities for empirical study. Sequential search models provide a structured framework for analyzing such data, but empirically estimating them is often technically challenging. In particular, existing methods rely on step-by-step optimal strategies, which depend on unobserved search outcomes and lead to complicated likelihood functions that are difficult to estimate. This paper proposes a new approach by showing that the optimal decision-making in a broad class of sequential search models can be equivalently represented as a partial ranking over all actions available during the search process. This ranking-based representation avoids complications from unobservables and enables more tractable analysis. Building on this insight, we derive a decomposable likelihood function, clarify identification arguments, and provide an improved GHK-style estimator that is both simple to implement and robust in performance. We further extend the method to accommodate empirical settings with incomplete search data and enriched models incorporating additional actions, such as product discovery. Our approach offers a novel perspective on sequential search and provides a practical toolkit for practitioners working with search data.</p>
     <p><strong>Selected presentations:</strong> SEG Tilburg； EEA 2025 (Bordeaux, scheduled)</p>
+  </div>
+</div>
+
+<div class="paper">
+  <h3><strong>Do I Really Want to Buy This? Preference Discovery and Consumer Search</strong></h3>
+  <p>Joint with Tobias Klein and Christoph Walsh. <a href="https://www.dropbox.com/scl/fi/otgsnm4pnp4o7fch87wbr/Preference_Discovery.pdf?rlkey=fu5pjctjg25bvrdnclejxhuj1&st=89bodxpp&dl=0&raw=1" target="_blank">[PDF]</a></p>
+  <button onclick="toggleAbstract(this)">Show Abstract</button>
+  <div class="abstract" style="display:none; margin-top:10px;">
+    <p>One of the most invoked assumptions in economics is that consumers know their preferences when making choices. Although theories and experiments in psychology and behavioral economics suggest that this may be unrealistic, there is relatively little evidence from the field on this question. In this paper, we use detailed clickstream data from a large Central Asian online platform to study the extent to which consumers learn about their preferences while searching for a smartphone. To quantify the speed at which this takes place and account for other factors, most notably that consumers obtain additional product information when they inspect product pages, we estimate a rich search model in which consumers learn about their willingness to pay each time they visit the checkout page. Consumers initially underestimate their price sensitivity and update it along the way. Taking this into account shows that consumers are more price sensitive than a standard search model would predict, and an intervention that prompts consumers to end their search early can lead to potential welfare loss.</p>
+    <p><strong>Selected presentations:</strong> SEG Tilburg; Tilburg-Rotterdam WDM 2024; EMAC Doctoral Colloquium 2025 (Madrid); ISMS 2025 (Washington DC); 14th Consumer Search and Switching Cost Workshop (Hong Kong); AMA Summer Conference (Chicago, scheduled).</p>
   </div>
 </div>
 
