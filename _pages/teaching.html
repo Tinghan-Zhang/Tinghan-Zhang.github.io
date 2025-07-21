@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Experience as Teaching Assistant"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-Courses:
-<ul>
-<li> Behavioral Economics, MSc in Quantitative Economics and Finance, Renmin University of China, Summer 2016.</li>
-<li> Microeconometrics, MSc in Econometrics and Operations Research, Tilburg University, Fall 2020, 2021, 2022, 2023.</li>
-<li> Econometrics 3, Research Master in Economics and Business, Tilburg University, Spring 2021, 2022, 2023, 2024.</li>
- </ul> 
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
