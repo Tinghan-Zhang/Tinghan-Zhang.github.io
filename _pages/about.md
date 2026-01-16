@@ -16,9 +16,9 @@ Empirical Industrial Organization, Quantitative Marketing, Applied Microeconomet
 
 Research Interests
 ======
- - **Empirical Industrial Organization** with its application in **Quantitative Marketing**, focusing on consumers’ decision-making among available actions to overcome market frictions, such as search, learning, and forgetting. I develop these models to quantify the impact of relevant market strategies, including one-click purchase, recommendations, reminders, and advertisements.
+ - **Empirical Industrial Organization** with its application in **Quantitative Marketing**, focusing on how consumers make decisions through multi-stage pre-purchase actions such as search and learning in the presence of market frictions, including incomplete product information, distributional uncertainty, and forgetting. I develop modeling frameworks to quantify the impact of relevant market strategies, including one-click purchase, recommendations, reminders, and targeted advertising.
 
- - **(Structural) Econometrics**, focusing on the estimation of sequential alternative selection models.
+ - **(Structural) Econometrics**, with an emphasis on estimation methods for multi-stage discrete choice and ranking-based choice frameworks.
 
  - Digital Economics on Platforms. 
 
