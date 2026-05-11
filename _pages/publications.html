@@ -20,7 +20,6 @@ author_profile: true
   }
   .paper-links a:hover { text-decoration: underline; }
   
-  /* 标签样式 */
   .badge {
     display: inline-block;
     padding: 2px 8px;
@@ -35,7 +34,6 @@ author_profile: true
   .badge-dar { background-color: #5A8BB5; color: white; } /* 蓝色表示available on request */
   .badge-wip { background-color: #f0ad4e; color: white; } /* 橙色表示进行中 */
 
-  /* 摘要交互样式 */
   details summary {
     cursor: pointer;
     color: #666;
@@ -72,9 +70,9 @@ author_profile: true
     <details>
       <summary>Show Abstract & Presentations</summary>
       <div class="abstract-content">
-        <p>Sequential search models provide a powerful framework for analyzing consumer search decisions using action sequence data. Existing applications, however, typically rely on optimal rules under which subsequent decisions depend on unobserved information revealed in earlier steps. Implementing such models therefore often requires restrictive specifications and simulation-intensive procedures, increasing computational burden and limiting empirical applicability. This paper introduces a new representation of the optimal solution for a broad class of sequential search processes. We show that the outcome of an optimal sequential search process admits an equivalent representation as a partial ranking of all feasible actions. This representation enables sequential search models to be implemented through their ranking equivalents with substantial simplification. For the Weitzman-style benchmark, we develop a rank-based GHK simulator that reduces simulation requirements while improving accuracy, computational efficiency, and ease of implementation. The ranking representation further extends to a wide range of settings, including environments with partially observed action sequences and multi-stage information-acquisition processes, such as product discovery, which can be accommodated within a unified empirical approach. Overall, our results improve both the tractability and the empirical applicability of sequential search models.</p>
+        <p>Sequential search models provide a powerful framework for studying consumer search using rich data that records the sequence of consumer actions taken during the search process. Existing empirical applications often implement the model based on consumers' optimal policies, in which later decisions depend on outcomes from earlier actions that are not fully observed by researchers. Therefore, implementation is largely restricted by computation burden and limited model flexibility. This paper establishes a theoretical equivalence showing that, under common and mild assumptions of Independence and Invariance, a sequential search process is optimal if and only if a corresponding partial ranking over all feasible actions throughout the process holds, thereby introducing a ranking representation of optimal sequential search. This representation enables a novel, simple, and unified empirical strategy for implementing sequential search models. For the classic \cite{weitzman1979optimal} model, the proposed approach reduces simulation requirements while improving accuracy, computational efficiency, and ease of implementation. Moreover, the ranking representation and the empirical strategy generalize to a broad class of sequential search settings, including partially observed search data and processes with multi-stage information acquisition, such as discovery. Overall, our results enhance the tractability and the empirical applicability of sequential search models.</p>
         <div class="presentations">
-          <strong>Selected presentations:</strong> SEG Tilburg; Econometrics Society European Winter Meeting 2025 (Nicosia)
+          <strong>Selected presentations:</strong> SEG Tilburg; Econometrics Society European Winter Meeting 2025 (Nicosia); 15th Consumer Search and Switching Cost Workshop (Berlin); IAAE 2026 (Calcavelos)
         </div>
       </div>
     </details>
