@@ -10,17 +10,19 @@ Welcome!
 
 I am a last-year PhD candidate in the [Department of Econometrics and Operations Research](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/eor) at Tilburg University, School of Economics and Management. My supervisors are [Prof. dr. Tobias Klein](https://www.tobiasklein.ws/) and [Dr. Christoph Walsh](https://walshc.github.io/). 
 
+I will be joining [UCLA Anderson School of Management](https://www.anderson.ucla.edu/) in January 2027as a Postdoctoral Scholar, under the supervision of [Elisabeth Honka](https://www.anderson.ucla.edu/faculty-and-research/marketing/faculty/honka), Associate Professor of Marketing. 
+
 Research Fields
 ======
-Empirical Industrial Organization, Quantitative Marketing, Applied Microeconometrics, Digital Economics. 
+Empirical Industrial Organization, Quantitative Marketing, Structural Econometrics, Digital Economics.
 
 Research Interests
 ======
- - **Empirical Industrial Organization** with its application in **Quantitative Marketing**, focusing on how consumers make decisions through multi-stage pre-purchase actions such as search and learning in the presence of market frictions, including incomplete product information, distributional uncertainty, and forgetting. I develop modeling frameworks to quantify the impact of relevant market strategies, including one-click purchase, recommendations, reminders, and targeted advertising.
+- **Empirical Industrial Organization and Quantitative Marketing**, focusing on how consumers make sequential decisions in the presence of market frictions such as search, learning, and forgetting. I develop structural models and estimation methods to quantify consumer behavior and evaluate the effects of firm strategies and market interventions.
 
- - **(Structural) Econometrics**, with an emphasis on estimation methods for multi-stage discrete choice and ranking-based choice frameworks.
+- **Structural Econometrics**, with an emphasis on estimation methods for multi-stage discrete choice models.
 
- - Digital Economics on Platforms. 
+- **Economics of Digital Platforms**.
 
 Contact
 ======
