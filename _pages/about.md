@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome! 
 
-I am a final-year PhD candidate in the [Department of Econometrics and Operations Research](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/eor) at Tilburg University, School of Economics and Management. My supervisors are [Prof. dr. Tobias Klein](https://www.tobiasklein.ws/) and [Dr. Christoph Walsh](https://walshc.github.io/). 
+I received my PhD from the [Department of Econometrics and Operations Research](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/eor) at School of Economics and Management, Tilburg University in October 2026. My doctoral supervisors are [Prof. dr. Tobias Klein](https://www.tobiasklein.ws/) and [Dr. Christoph Walsh](https://walshc.github.io/). 
 
 I will be joining [UCLA Anderson School of Management](https://www.anderson.ucla.edu/) in January 2027 as a Postdoctoral Scholar, under the supervision of [Elisabeth Honka](https://www.anderson.ucla.edu/faculty-and-research/marketing/faculty/honka), Associate Professor of Marketing. 
 
@@ -18,9 +18,9 @@ Empirical Industrial Organization, Quantitative Marketing, Structural Econometri
 
 Research Interests
 ======
-- **Consumer Search and Sequential Decision-Making**, with a focus on search, learning, and imperfect recall. I develop structural models and estimation methods to study consumer behavior and evaluate firm strategies and market interventions.
+- **Consumer Sequential Decision-Making**, with a focus on search, learning, and imperfect recall. 
 
-- **Structural Econometrics**, particularly estimation methods for sequential and multi-stage discrete choice models.
+- **Structural Econometrics**, particularly models and estimation methods for sequential and multi-stage discrete choice models.
 
 - **Digital Markets and Platforms**.
 
